@@ -48,7 +48,7 @@ Knots is not just about posting images and text. The long-term goal is to create
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React + Tailwind CSS  
+- **Frontend**: NextJs + React +  Tailwind CSS  
 - **Backend**: Node.js + Express (in progress for APIs)  
 - **Database**: MongoDB  
 - **Authentication**: JWT-based (secure token system)  
